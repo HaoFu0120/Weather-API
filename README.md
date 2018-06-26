@@ -1,6 +1,6 @@
 # Weather-API
 A Spring boot weather application, sending request to openweathermap and showing reply at html.
-Exporting weather data to excel and pdf is possible. In each request, weather datas are automatically Written to mongodb, and at another page shows history of requests to api and datas at database.
+Exporting weather data to excel and pdf is possible. In each request, weather datas are automatically written to mongodb, and at another page it shows history of requests to api and datas at database.
 Uploading file to server is possible. Shows all uploaded files and downloading them is possible via html page by clicking.
 
 
