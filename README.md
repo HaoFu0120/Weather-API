@@ -44,13 +44,13 @@ By "Weathers From Database" button all search and data history could be seen.
 
 * [Spring Boot](https://projects.spring.io/spring-boot/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-Openweathermap Api
-Thymeleaf
-Jstl
-Google Gson
-Apache Poi
-ItextPdf
-flapdoodle.embed.mongo
+* Openweathermap Api
+* Thymeleaf
+* Jstl
+* Google Gson
+* Apache Poi
+* ItextPdf
+* flapdoodle.embed.mongo
 
 
 ## Contributing
